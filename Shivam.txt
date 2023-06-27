@@ -1,0 +1,3 @@
+Fracture Classification Chatbot: 
+We can create a chatbot that uses natural language processing and AI techniques to interact with users and classify fractures based on descriptions or uploaded images. 
+The chatbot can provide information about the type of fracture and suggest initial treatment options
